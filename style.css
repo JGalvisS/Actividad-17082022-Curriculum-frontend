@@ -1,0 +1,29 @@
+h1 {
+    color: #005677;
+    background: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 700;
+}
+.espacio{
+    color: #E5E5E5;
+    font-size: xx-large;
+    
+}
+.subtitulos{
+    color: #005677;
+    background: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+.tabulador{
+    padding-left: 20mm;
+}
+.footer{
+    color: white;
+    background-color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+}
